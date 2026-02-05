@@ -1,4 +1,4 @@
-import AC from "@bacons/apple-colors";
+import * as AC from "@bacons/apple-colors";
 import { ScrollView, View, Text } from "react-native";
 import { StatCard } from "@/components/stat-card";
 import { ActivityRing } from "@/components/activity-ring";

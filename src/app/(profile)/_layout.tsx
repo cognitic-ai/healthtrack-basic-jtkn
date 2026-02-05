@@ -1,4 +1,4 @@
-import AC from "@bacons/apple-colors";
+import * as AC from "@bacons/apple-colors";
 import { NativeStackNavigationOptions } from "@react-navigation/native-stack";
 import { isLiquidGlassAvailable } from "expo-glass-effect";
 import Stack from "expo-router/stack";

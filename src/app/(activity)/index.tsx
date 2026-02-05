@@ -1,4 +1,4 @@
-import AC from "@bacons/apple-colors";
+import * as AC from "@bacons/apple-colors";
 import { SymbolView } from "expo-symbols";
 import { ScrollView, View, Text, Pressable } from "react-native";
 import { WorkoutCard } from "@/components/workout-card";
